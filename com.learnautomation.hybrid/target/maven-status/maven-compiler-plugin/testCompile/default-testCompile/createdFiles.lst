@@ -1,0 +1,11 @@
+testcases/VerifyLoginPage.class
+dataProvider/ExcelDetaProvider.class
+testcases/VerifyHomePage.class
+utility/Helper.class
+Pages/HomePage.class
+factory/BrowserFactory.class
+factory/DataProviderFactory.class
+Pages/LoginPage.class
+testcases/VerifyLoginPageWithReport2.class
+dataProvider/ConfigDetaProvider.class
+testcases/VerifyLoginPageWithReport.class
